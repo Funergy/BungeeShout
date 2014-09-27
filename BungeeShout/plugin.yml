@@ -1,0 +1,5 @@
+name: BungeeShout
+main: com.Funergy.BS.BungeeShout
+version: 1.0
+author: Funergy
+description: Shout a message.
